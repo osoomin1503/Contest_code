@@ -18,6 +18,6 @@
 
 
 # 프로젝트 보고서
-[링크로 이동](https://overjoyed-bun-c5b.notion.site/AI-439b2ddbce6646a3b0f00abe84d109ad)
+![링크로 이동](https://github.com/osoomin1503/drawing/blob/main/20240417_164339.png)(https://overjoyed-bun-c5b.notion.site/AI-439b2ddbce6646a3b0f00abe84d109ad)
 
 
