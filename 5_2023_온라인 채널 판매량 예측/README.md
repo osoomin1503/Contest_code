@@ -18,6 +18,6 @@
 
 
 # 프로젝트 보고서
-[링크로 이동](https://www.notion.so/AI-439b2ddbce6646a3b0f00abe84d109ad?pvs=4#8abca8ad1ef9442c8ef91b951718e059)
+[링크로 이동](https://overjoyed-bun-c5b.notion.site/AI-439b2ddbce6646a3b0f00abe84d109ad)
 
 
